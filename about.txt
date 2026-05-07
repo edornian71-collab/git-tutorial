@@ -1,1 +1,2 @@
 This is the about page.
+Contact us at hello@example.com
